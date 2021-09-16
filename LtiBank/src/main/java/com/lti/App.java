@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Sample Application" );
         System.out.println("Checking commits");
+        System.out.println("POLL SCM");
     }
 }
